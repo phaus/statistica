@@ -1,6 +1,4 @@
-# Config and data files
-.envrc
-users.csv
+# Nextcloud exlude lists
 
 # Java
 */target
